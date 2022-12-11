@@ -1,0 +1,28 @@
+
+
+[
+    {
+        "item": "../../../assets/icones/home-ativo.png",
+        "descricao": "Início"
+    },
+
+    {
+        "item": "../../assets/icones/mais-curtidas-inativo.png",
+        "descricao": "Mais curtidas"
+    },
+
+    {
+        "item": "../../assets/icones/mais-vistas-inativo.png",
+        "descricao": "Mais vistas"
+    },
+
+    {
+        "item": "../../assets/icones/novas-inativo.png",
+        "descricao": "Novas"
+    },
+    
+    {
+        "item": "../../assets/icones/surpreenda-me-inativo.png",
+        "descricao": "Surpreenda-me"
+    }
+]
