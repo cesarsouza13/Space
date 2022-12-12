@@ -2,27 +2,32 @@
 
 [
     {
-        "item": "../../../assets/icones/home-ativo.png",
-        "descricao": "Início"
+        "item": "/assets/icones/home-ativo.png",
+        "descricao": "Início",
+        "id":"1"
     },
 
     {
-        "item": "../../assets/icones/mais-curtidas-inativo.png",
-        "descricao": "Mais curtidas"
+        "item": "/assets/icones/mais-curtidas-inativo.png",
+        "descricao": "Mais curtidas",
+        "id":"2"
     },
 
     {
-        "item": "../../assets/icones/mais-vistas-inativo.png",
-        "descricao": "Mais vistas"
+        "item": "/assets/icones/mais-vistas-inativo.png",
+        "descricao": "Mais vistas",
+        "id":"3"
     },
 
     {
-        "item": "../../assets/icones/novas-inativo.png",
-        "descricao": "Novas"
+        "item": "/assets/icones/novas-inativo.png",
+        "descricao": "Novas",
+        "id":"4"
     },
     
     {
-        "item": "../../assets/icones/surpreenda-me-inativo.png",
-        "descricao": "Surpreenda-me"
+        "item": "/assets/icones/surpreenda-me-inativo.png",
+        "descricao": "Surpreenda-me",
+        "id":"5"
     }
 ]
